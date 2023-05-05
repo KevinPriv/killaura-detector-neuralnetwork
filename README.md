@@ -1,6 +1,6 @@
-# Minecraft Killaura Neural Anti-Cheat
+# Minecraft Killaura NN Anti-Cheat
 
-The Minecraft Killaura Neural Anti-Cheat is a powerful and efficient solution for detecting and combating the Killaura cheat in Minecraft. This system is built using a neural network with an input layer, two hidden layers, and an output layer. It has been trained on the dataset from [HALData](https://github.com/FrozenOrb/HALData).
+The Minecraft Killaura NN Anti-Cheat is a powerful and efficient solution for detecting and combating the Killaura cheat in Minecraft. This system is built using a neural network with an input layer, two hidden layers (LSTM and Dense), and an output layer. It has been trained on the dataset from [HALData](https://github.com/FrozenOrb/HALData).
 
 ## Importance of Detecting Killaura
 
