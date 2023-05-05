@@ -18,3 +18,6 @@ AUC (Area Under the Curve) is a metric used to evaluate the performance of a bin
 
 ### Loss (0.0459)
 Loss refers to the difference between the predicted values and the actual values. A low loss value indicates that the neural network is performing well in predicting whether a player is using Killaura or not. A lower loss value will help maintain a fair gaming environment by accurately detecting cheaters.
+
+## Credits
+Credit goes to FrozenOrb's [dataset](https://github.com/FrozenOrb/HALData) and [concept](https://github.com/FrozenOrb/HAL_Prediction).
